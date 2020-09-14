@@ -18,6 +18,9 @@ terraform plan -out iac.tfplan
 terraform apply iac.tfplan
 ```
 
+![invest plus arquitetura](https://github.com/aumoraes/safra-tecnee-invest-plus-iac/blob/master/arquitetura-insvest-plus.png)
+
+
 para saber mais:
 [Terraform](https://www.terraform.io/) | 
 [AWS](https://aws.amazon.com/pt/)
